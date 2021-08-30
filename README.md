@@ -33,7 +33,7 @@ git clone https://github.com/marcellovf/Fielo-NewRoots.git
 
 2) Entre na pasta raiz do projeto que você acabou de clonar
 ```
-cd telecine-reinaldoamorim
+cd Fielo-NewRoots
 ```
 
 3) Instale os packages ( Isso pode levar alguns minutos )
