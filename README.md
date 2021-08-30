@@ -7,7 +7,7 @@ Projeto desenvolvido para o processo seletivo da Fielo.
 - ReactJS
 - NextJS: Por falta de briefing usei para mostrar conhecimento.
 - Material UI: Utilizado para ser mais rápido, em projeto maiores sempre prefiro fazer minha própria lib de componentes usando Storybook e os padrões de Atomic Design
-- Styled-component: Sass-in-js Ganha um encapsulamento muito bom porem perde em performace pois aumenta o bundle. Caso o projeto preciso de muita performamce optaria por sass ou less utilizando o padrão de css BEM
+- Styled-component: Sass-in-js Ganha um encapsulamento muito bom porem perde em performace pois aumenta o bundle. Caso o projeto precise de muita performamce optaria por sass ou less utilizando o padrão de css BEM
 - Lodash: lib leve que facilita a manipulação de dados.
 - Axios: Atualmente pra mim a melhor lib para fazer request http.
 
